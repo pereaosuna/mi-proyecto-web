@@ -146,3 +146,42 @@ select:focus {
 	background-size: cover;
 	background-position: center;
 }
+
+/* ======= Navigation ======= */
+.site-nav {
+	background: transparent; /* usa el fondo del header */
+	padding: 0.5rem 0;
+}
+.site-nav .container {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+}
+.site-nav ul {
+	list-style: none;
+	display: flex;
+	gap: 1rem;
+	margin: 0;
+	padding: 0;
+	align-items: center;
+}
+.site-nav a {
+	color: #333;
+	text-decoration: none;
+	padding: 0.35rem 0.6rem;
+	border-radius: 4px;
+	font-weight: 500;
+}
+.site-nav a:hover,
+.site-nav a:focus {
+	background: #e9ecef;
+	outline: none;
+}
+
+@media (max-width: 768px) {
+	.site-nav ul {
+		flex-direction: column;
+		gap: 0.25rem;
+		align-items: flex-start;
+	}
+}
