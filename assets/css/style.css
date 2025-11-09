@@ -140,3 +140,9 @@ select:focus {
 .skip-link:focus {
 	top: 6px;
 }
+
+.hero {
+	background-image: url('https://ik.imagekit.io/pereaosuna/portfolio/texture.jpg?tr=w-1600,q-70');
+	background-size: cover;
+	background-position: center;
+}
