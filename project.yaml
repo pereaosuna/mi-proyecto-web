@@ -2,34 +2,35 @@
 # This file will be used to generate your entry in the course showroom
 
 # Basic information
-handle: your-github-username
-name: Your Full Name
-email: your-email@udit.es
+handle: pereaosuna
+name: Javier Perea
+email: javier.perea@alumnos.udit.es
 
 # URLs (will be auto-generated if you follow naming conventions)
-github_url: https://github.com/your-username
-project_url: https://your-username.github.io/your-project-repo
-repository_url: https://github.com/your-username/your-project-repo
+github_url: https://github.com/pereaosuna
+project_url: https://pereaosuna.github.io/mi-proyecto-web/
+repository_url: https://github.com/pereaosuna/mi-proyecto-web
 
 # Project details
 title:
- es: Título de tu Proyecto en Español
- en: Your Project Title in English
+ es: Mi Primer Sitio Web
+ en: My First Website
 
 abstract:
  es: |
-  Una descripción concisa de tu proyecto web en español. 
-  Explica qué construyes, para quién y por qué es importante.
+  Proyecto inicial del curso Web Atelier UDIT. 
+  Un ejercicio introductorio para configurar el entorno de desarrollo, crear un repositorio en GitHub y publicar una página 'Hello, Web' en GitHub Pages.
  en: |
-  A concise description of your web project in English.
-  Explain what you're building, for whom, and why it matters.
+  Initial project for the Web Atelier UDIT course.
+  An introductory exercise to set up the development environment, create a GitHub repository, and publish a 'Hello, Web' page using GitHub Pages.
 
 # Technical tags (choose relevant ones)
 tags:
- - html5
- - css3
- - responsive-design
- - accessibility
+ - HTML5
+ - CSS3
+ - Git
+ - GitHub Pages
+ - Desarrollo Web
  # Add more as relevant: javascript, sass, performance, etc.
 
 # Learning objectives you're focusing on
